@@ -1,6 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akash</h1>
 <h3 align="center">I'm a passionate Data Analyst from India.</h3>
+
 ## 🙋‍♂️ About Me:
 - 🔭 I’m currently working on **Movie Recommendation System**
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
@@ -29,6 +30,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Akashkunwar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
 ## 📊 My Github Stats:
   <br/>
     <a href="https://github.com/Akashkunwar/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akashkunwar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -40,12 +42,14 @@
 <a href="https://github.com/Akashkunwar/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akashkunwar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
+
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/akash-kumar-83679a173/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/akashkunwar_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/akash_kunwar_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
+
 ## ❤ Views and Followers:
 <a href="https://github.com/Akashkunwar/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Akashkunwar">
