@@ -8,7 +8,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource ML or Analysis Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Akashkunwar/My-projects)**
+- 👨‍💻 All of my projects are available at **[My Projects](https://github.com/Akashkunwar/My-projects)**
+
+- 👨‍💻 All of my assignments are available at **[My Assignments](https://github.com/Akashkunwar/My-Assignments)**
 
 - 📫 How to reach me **gnspda@gmail.com**
 
