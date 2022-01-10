@@ -3,7 +3,7 @@
 <h3 align="center">I'm a passionate Data Analyst from India.</h3>
 
 ## 🙋‍♂️ About Me:
-- 🔭 I’m currently working on **Movie Recommendation System**
+- 🔭 I’m currently working on **prediction from Covid Datasets**
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource ML or Analysis Projects**
