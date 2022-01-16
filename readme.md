@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gnspda@gmail.com**
 
-- ⚡ Fun fact **I enjoy persistance.**
+- ⚡ Fun fact **I enjoy Working with data.**
 
 ## 🚀 Languages and Tools:
 <p align="left"> 
