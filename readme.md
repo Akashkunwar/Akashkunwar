@@ -3,7 +3,7 @@
 <h3 align="center">Data is fun to work with | Data Science Enthusiast</h3>
 
 ## 🙋‍♂️ About Me:
-- 🔭 I’m currently working on **prediction from Covid Datasets**
+- 🔭 I’m currently working on **Insurance premium prediction.**
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource ML or Analysis Projects**
