@@ -3,8 +3,8 @@
 <h3 align="center">Data is fun to work with | Data Science Enthusiast</h3>
 
 ## 🙋‍♂️ About Me:
-- 🔭 I’m currently working on **Chennai house price prediction.**
-- 
+- 🔭 I’m currently working on **Twitter bot to tweet mood.**
+
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource ML or Analysis Projects**
