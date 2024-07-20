@@ -33,7 +33,8 @@
     <a href="https://jupyter.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/jupyter.png"/></a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png"/></a>
     <a href="https://www.r-project.org/" target="_blank"> <img src="https://img.icons8.com/external-becris-flat-becris/48/external-r-data-science-becris-flat-becris.png"/></a>
-    <a href="https://www.metabase.com/" target="_blank"> <img src="https://www.pngrepo.com/png/354063/512/metabase.png"/></a>
+    <a href="https://www.metabase.com/" target="_blank"><img src="https://www.pngrepo.com/png/354063/512/metabase.png" width="48" height="48"/></a>
+
 
     
 <!--     <a href="https://www.metabase.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/metabase-icon-1619x2048-qd3c9qpo.png"/></a> -->
