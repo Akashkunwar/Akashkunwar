@@ -20,12 +20,11 @@
 ## 🚀 Languages and Tools:
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.r-project.org/" target="_blank"> <img src="https://img.icons8.com/external-becris-flat-becris/48/external-r-data-science-becris-flat-becris.png"/></a>
-    <a href="https://www.java.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="48" height="48"/></a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.javascript.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.google.com/sheets/about/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/256/174/174854.png" width="48" height="48"/> </a>
+<a href="https://www.google.com/sheets/about/" target="_blank"> <img src="https://th.bing.com/th/id/OIP.OKxa5pUz8liY78zSRbsIegHaHa?rs=1&pid=ImgDetMain" width="48" height="48"/> </a>
     <a href="https://www.google.com/sheets/about/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/google-sheets.png"/> </a> 
     <a href="https://powerbi.microsoft.com/en-gb/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/></a>
     <a href="https://www.tableau.com/why-tableau/what-is-tableau" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/></a>
@@ -35,6 +34,10 @@
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/48/pycharm.png"/></a>
     <a href="https://jupyter.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/jupyter.png"/></a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png"/></a>
+    <a href="https://www.r-project.org/" target="_blank"> <img src="https://img.icons8.com/external-becris-flat-becris/48/external-r-data-science-becris-flat-becris.png"/></a>
+    <a href="https://www.java.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="48" height="48"/></a>
+    
+    
 
 
     
