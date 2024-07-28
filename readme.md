@@ -27,8 +27,8 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.google.com/sheets/about/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/256/174/174854.png" width="48" height="48"/> </a>
-<a href="https://www.google.com/sheets/about/" target="_blank"> <img src="https://th.bing.com/th/id/OIP.OKxa5pUz8liY78zSRbsIegHaHa?rs=1&pid=ImgDetMain" width="48" height="48"/> </a>
+    <a href="https://html.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/256/174/174854.png" width="48" height="48"/> </a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/480px-CSS3_logo.svg.png" width="48" height="48"/> </a>
     <a href="https://www.google.com/sheets/about/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/google-sheets.png"/> </a> 
     <a href="https://powerbi.microsoft.com/en-gb/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/></a>
     <a href="https://www.tableau.com/why-tableau/what-is-tableau" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/></a>
