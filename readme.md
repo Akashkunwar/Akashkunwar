@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Akash+Kumar;AI+Engineer+%7C+Software+Engineer+%7C+Founder;Building+Intelligent+Solutions+with+LLMs+%26+RAG;Full+Stack+Developer+%7C+Data+Science+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Akash+Kunwar;AI+Engineer+%7C+Software+Engineer+%7C+Founder;Building+Intelligent+Solutions+with+LLMs+%26+RAG;Full+Stack+Developer+%7C+Data+Science+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,9 +20,9 @@
 ## 👨‍💻 About Me
 
 ```python
-class AkashKumar:
+class AkashKunwar:
     def __init__(self):
-        self.name = "Akash Kumar"
+        self.name = "Akash Kunwar"
         self.role = "AI Engineer & Full Stack Developer"
         self.location = "Indore, MP, India"
         self.current_work = [
@@ -50,7 +50,7 @@ class AkashKumar:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
 
-me = AkashKumar()
+me = AkashKunwar()
 me.say_hi()
 ```
 
